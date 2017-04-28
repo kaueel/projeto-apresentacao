@@ -1,0 +1,2 @@
+clear; g++ -std=c++11 ./Process/Information/Information.cpp ./Process/Menu/Menu.cpp ./Process/MyBooleanClass/MyBooleanClass.cpp ./Process/MyProgram/MyProgram.cpp ./Itens/Bread/Bread.cpp ./Itens/Cheese/Cheese.cpp ./Itens/CottageCheese/CottageCheese.cpp ./Itens/Cracker/Cracker.cpp ./Itens/FilledWafer/FilledWafer.cpp ./Itens/Food/Food.cpp ./Itens/Ham/Ham.cpp ./Itens/Mortadella/Mortadella.cpp FT_bakery.cpp -o FT_bakery.exe; ./FT_bakery.exe
+
